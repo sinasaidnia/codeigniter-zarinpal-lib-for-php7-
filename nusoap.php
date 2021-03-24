@@ -1,6 +1,10 @@
 <?php
 
 /*
+***** Edited By siansaidnia for php7+ compatiblity *****
+***** 2021/03/01 *****
+***** sinasaidnia *****
+
 $Id: nusoap.php,v 1.123 2010/04/26 20:15:08 snichol Exp $
 
 NuSOAP - Web Services Toolkit for PHP
