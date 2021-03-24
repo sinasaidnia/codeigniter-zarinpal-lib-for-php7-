@@ -1,0 +1,1 @@
+# codeigniter-zarinpal-lib-for-php7-
